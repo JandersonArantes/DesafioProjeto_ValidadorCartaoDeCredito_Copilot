@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valida-cartao-de-credito", "src\ValidaCartao\valida-cartao-de-credito.csproj", "{39BBE5BD-F98E-A441-B99A-2A0B84555BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BBE5BD-F98E-A441-B99A-2A0B84555BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BBE5BD-F98E-A441-B99A-2A0B84555BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BBE5BD-F98E-A441-B99A-2A0B84555BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BBE5BD-F98E-A441-B99A-2A0B84555BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C51276A-7B88-480A-9930-5E48272BB2C2}
+	EndGlobalSection
+EndGlobal

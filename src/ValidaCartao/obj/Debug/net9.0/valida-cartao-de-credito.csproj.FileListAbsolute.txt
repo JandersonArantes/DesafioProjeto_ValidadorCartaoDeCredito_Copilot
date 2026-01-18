@@ -1,0 +1,14 @@
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\bin\Debug\net9.0\valida-cartao-de-credito.exe
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\bin\Debug\net9.0\valida-cartao-de-credito.deps.json
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\bin\Debug\net9.0\valida-cartao-de-credito.runtimeconfig.json
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\bin\Debug\net9.0\valida-cartao-de-credito.dll
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\bin\Debug\net9.0\valida-cartao-de-credito.pdb
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.AssemblyInfoInputs.cache
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.AssemblyInfo.cs
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.csproj.CoreCompileInputs.cache
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.dll
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\refint\valida-cartao-de-credito.dll
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.pdb
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\valida-cartao-de-credito.genruntimeconfig.cache
+C:\Users\jande\OneDrive\Documentos\GitHub\valida-cartao-de-credito\src\ValidaCartao\obj\Debug\net9.0\ref\valida-cartao-de-credito.dll
